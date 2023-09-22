@@ -1,0 +1,6 @@
+Equations:
+Number1 + Number2 = 7
+Number1 - Number2 = 1
+Number1 * Number2 = 12
+Number1 / Number2 = 1.33333
+Number1 % Number2 = 1
